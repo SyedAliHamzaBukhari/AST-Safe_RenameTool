@@ -1,2 +1,2 @@
 # AST-Safe_RenameTool
-Project built at Code Quest, competition at NUST
+File editing made easy
